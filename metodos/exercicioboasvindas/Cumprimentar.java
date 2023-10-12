@@ -2,7 +2,12 @@ package metodos.exercicioboasvindas;
 
 
 public class Cumprimentar {
-    String cumprimento = "Olá, Mundo!";
+
+    String ola = "Olá, mundo!!";
+
+    public void cumprimento(){
+        System.out.println(ola);
+    }
     
 }
 
