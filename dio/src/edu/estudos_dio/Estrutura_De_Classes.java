@@ -1,3 +1,4 @@
+package edu.estudos_dio;
 public class Estrutura_De_Classes {
     
 public static void main (String [] args){
