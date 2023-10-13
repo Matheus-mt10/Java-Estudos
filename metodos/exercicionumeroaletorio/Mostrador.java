@@ -7,8 +7,12 @@ public class Mostrador {
      */
     
     public static void main(String[] args) {
-            
-        System.out.println("O númeor aleatório é: "+gerarNumeroAleatorio.numero);
+
+        NumeroAleatorio numeroAleatorio = new NumeroAleatorio();
+
+        numeroAleatorio.numero;
+        
+        
 
     }
 
