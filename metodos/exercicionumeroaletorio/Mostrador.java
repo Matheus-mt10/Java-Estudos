@@ -10,9 +10,7 @@ public class Mostrador {
 
         NumeroAleatorio numeroAleatorio = new NumeroAleatorio();
 
-        numeroAleatorio.numero;
-        
-        
+           
 
     }
 
