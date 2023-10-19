@@ -7,16 +7,6 @@ public class Console {
 
         gerarMensagem.Segunda();
 
-        gerarMensagem.Terca();
-
-        gerarMensagem.Quarta();
-
-        gerarMensagem.Quinta(); 
-
-        gerarMensagem.Sexta();
-
-        gerarMensagem.Sabado();
-
-        gerarMensagem.Domingo();
+       
     }
 }
