@@ -8,8 +8,7 @@ public class Mostrador {
     
     public static void main(String[] args) {
 
-        NumeroAleatorio numeroAleatorio = new NumeroAleatorio();
- 
+       
     }
 
 
