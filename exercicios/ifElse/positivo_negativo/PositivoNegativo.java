@@ -15,6 +15,7 @@ public class PositivoNegativo {
             System.out.println("O número digitado foi "+numero +" portanto é Positivo.");
         }
 
+        sc.close();
 
         
     }
