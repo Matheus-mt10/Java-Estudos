@@ -28,6 +28,6 @@ public static void main(String[] args) {
          System.out.println("Sua média foi: "+media+". Nos vemos no próximo ano :( ");
     }
         
-    
+    sc.close();
  }   
 }

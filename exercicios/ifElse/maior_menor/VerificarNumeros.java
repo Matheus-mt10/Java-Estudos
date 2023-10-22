@@ -17,5 +17,7 @@ public class VerificarNumeros {
         }else{
             System.out.println("O número "+num3+" é maior que "+num1+" e "+num2);
         }
+
+        sc.close();
     }
 }
